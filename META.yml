@@ -29,4 +29,4 @@ resources:
     type: git
     url: https://github.com/ktat/Text-Parts.git
     web: https://github.com/ktat/Text-Parts
-version: 0.13
+version: 0.14
