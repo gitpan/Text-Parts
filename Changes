@@ -1,5 +1,9 @@
 Revision history for Text-Parts
 
+0.16 2013-09-05T16:58:51Z
+	fix typo in pod.
+	use Minilla instead of Module::Install & ShipIt.
+
 0.15	2012/04/24 10:01
 	change method name. max_number -> last_number.
 
